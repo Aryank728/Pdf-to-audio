@@ -1,4 +1,4 @@
-Certainly! The provided Python program uses the `PyPDF2` and `pyttsx3` libraries to read a user-selected PDF file, extract text from its first page, and then convert that text into speech. It creates a basic graphical interface using the `tkinter` library to allow the user to choose a PDF file. Here's a step-by-step summary of how the program works:
+Certainly! The provided Python program uses the `PyPDF2` and `pyttsx3` libraries to read a user-selected PDF file, extract text from its first page, and then convert that text into speech. It creates a basic graphical interface using the `tkinter` library to allow the user to choose a PDF file from their machine. Here's a step-by-step summary of how the program works:
 
 1. It imports the necessary modules: `PyPDF2` for PDF manipulation, `pyttsx3` for text-to-speech conversion, and `tkinter` for GUI interactions.
 
